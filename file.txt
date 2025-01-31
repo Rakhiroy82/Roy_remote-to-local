@@ -1,9 +1,13 @@
 Commit A1
 Commit A2
 Commit A3
+<<<<<<< HEAD
 Commit B1
 Commit B2
 Commit B3
 Commit C1
 Commit C2
 Commit C3
+=======
+Bug Fix
+>>>>>>> 64852c7 (bugfix-commit)
