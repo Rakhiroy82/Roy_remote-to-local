@@ -2,3 +2,4 @@ Commit A1
 Commit A2
 Commit A3
 Commit B1
+Commit B2
